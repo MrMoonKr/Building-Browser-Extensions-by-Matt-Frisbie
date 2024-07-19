@@ -1,0 +1,15 @@
+{
+  "name": "building-browser-extensions-book",
+  "version": "1.0.0",
+  "description": "sample code for building browser extensions book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.268"
+  }
+}
